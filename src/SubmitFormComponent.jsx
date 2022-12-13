@@ -11,7 +11,7 @@ const SubmitFormComponent = () => {
   const data = useStudentContext();
 
   // set target date to 15th of December 2022
-  const targetDate = new Date("December 11, 2022 00:00:00").getTime();
+  const targetDate = new Date("December 18, 2022 00:00:00").getTime();
 
   const {
     firstName,
